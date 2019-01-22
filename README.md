@@ -1,5 +1,5 @@
 # Onboarding
-Resources and activities for new NBC lab members. Inspired by the [Whitaker lab's](https://github.com/WhitakerLab) great [Onboarding](https://github.com/WhitakerLab/Onboarding) repo.
+Resources and activities for new NBC lab members. Inspired by the [Whitaker lab's](https://github.com/WhitakerLab) great [Onboarding](https://github.com/WhitakerLab/Onboarding) repository.
 
 ## First steps
 1. [Sign up](https://github.com/join?source=header-home) for a GitHub account and join the [NBCLab organization](https://github.com/NBCLab) by asking [Taylor](mailto:tsalo006@fiu.edu) to send you an invite.
